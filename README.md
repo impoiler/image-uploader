@@ -10,7 +10,7 @@ This is a simple Node.js application that allows users to upload images using an
 1. Clone the repository to your local machine using the following command: 
 
     ```
-    git clone https://github.com/your-username/node-app-image-upload.git
+    git clone https://github.com/impoiler/image-uploader.git
     ```
     
 2. Navigate to the project directory: 
