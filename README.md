@@ -16,7 +16,7 @@ This is a simple Node.js application that allows users to upload images using an
 2. Navigate to the project directory: 
 
     ```
-    cd node-app-image-upload
+    cd image-uploader
     ```
     
 3. Install the dependencies by running the following command: 
